@@ -1,3 +1,3 @@
 # scripts
 
-test edit
+These are my scripts, exercise caution where necessary.
